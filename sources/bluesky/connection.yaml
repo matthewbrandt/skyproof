@@ -1,0 +1,8 @@
+# This file was automatically generated
+type: duckdb
+name: jetstream
+options:
+  filename: jetstream.duckdb
+# Advanced Options, you probably don't want to change this
+buildOptions:
+  batchSize: 1000000
